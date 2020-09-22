@@ -1,0 +1,7 @@
+{
+  "name": "gamemoto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
